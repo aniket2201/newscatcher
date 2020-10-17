@@ -1,3 +1,4 @@
+# Hello & Welcome
 # Newscatcher
 **Programmatically collect normalized news from (almost) any website.**
 
